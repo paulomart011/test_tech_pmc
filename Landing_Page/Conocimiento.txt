@@ -1,9 +1,0 @@
-https://www.youtube.com/watch?v=9rnFV3vlJ3M
-
-- Para la imagen del tab de navegador debe ser un favicon 32x32 png
-- Unsplash es una plataforma para descargar imagenes de personas
-- Box icons es una plataforma para descargar iconos
-- Background con patrones: https://www.magicpattern.design/tools/css-backgrounds
--formspree.io : envia correso sin un lenguaje de backend
-https://metatags.io/ tags de paginas web
-open graph - nos ayuada a crear cards de nuestra paginas web
